@@ -4,7 +4,7 @@
   "description": "A game for learning CSS flexbox",
   "main": "game.js",
   "dependencies": {
-    "animate.css": "^3.4.0",
+    "animate.css": "^3.7.2",
     "jquery": "^3.5.1"
   },
   "devDependencies": {},
